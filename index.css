@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+body{
+    font-family: 'Oswald', sans-serif;
+
+}
+
+.carousal{
+    background-color: rgb(247, 242, 242);
+}
+.featurs{
+    background-color: rgb(218, 214, 214);
+   border-radius: 20px;
+transition: 0.4s;
+}
+.featurs:hover{
+transform: scale(1.1);
+box-shadow: 2px 6px 5px black;
+}
+.icon{
+    color: rgb(61, 64, 64);
+}
